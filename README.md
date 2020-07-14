@@ -19,7 +19,7 @@
 #### Windows
 
 Необходимо скачать для Windows архив:
- - augument-impulsecommunicator.zip
+ - [augument-impulsecommunicator_1.0.0.zip](https://github.com/IarcaniusI/augument-impulsecommunicator/files/4921436/augument-impulsecommunicator_1.0.0.zip)
 
 После разархивации в каталоге должен находиться:
  - ```augument-impulsecommunicator.exe``` - выполняемый файл;
@@ -36,7 +36,7 @@
 #### Linux, как бинарный файл
 
 Необходимо скачать для Linux архив:
- - augument-impulsecommunicator.tar.gz
+ - (augument-impulsecommunicator_amd64_1.0.0.tar.gz)[https://github.com/IarcaniusI/augument-impulsecommunicator/files/4921439/augument-impulsecommunicator_amd64_1.0.0.tar.gz]
 
 После разархивации в каталоге должен находиться:
  - ```augument-impulsecommunicator``` - выполняемый файл;
